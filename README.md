@@ -1,2 +1,2 @@
 # spotify-clone
-this is a frontend spotify clone using html and css.
+this is a frontend spotify clone using html & css.
